@@ -1,0 +1,11 @@
+@media (max-width:799px){
+    .container {
+        margin:auto;
+    }
+    body{
+    background-repeat: repeat;
+    }
+    .containers {
+        margin: auto;
+    }
+}

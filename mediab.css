@@ -1,0 +1,119 @@
+@media (max-width:799px){
+    .containers .nav{
+        width: 100%;
+    }
+      ul {
+        padding-left: 0px;
+      }
+      li {
+        padding: 10px;
+        padding-bottom: 8px;
+      }
+    #bnp{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-left: 100px;
+    }
+    #batch fieldset {
+        width: 60%;
+        margin-left: 0px;
+        background-size: 0px;
+      }
+      #batch {
+        padding: 0px;
+        margin-left: 0px;
+      }  
+      #note fieldset {
+        width: 60%;
+        overflow: hidden;
+        margin-left: 0px;
+        margin-top: 10px;
+        background-size: 0px;
+      }
+      #syllabus fieldset {
+        width: 60%;
+        margin-left: 0px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        background-size: 0px;
+      }
+      #syllabus h2 {
+        margin-left: 100px;
+      }
+      /* #info {
+        width: 500px;
+        height: 600px;
+        padding-left: 0px;
+        margin: 0px;
+      } */
+
+      #contact h3 {
+        margin-left: 0px;
+      }
+      
+      .use {
+        /* margin-left: 100px; */
+        color: #ea1538;
+        margin-left: -10px;
+      }
+      .ful {
+        margin-left: 100px;
+      }
+      #usl {
+        margin-left: 0px;
+      }
+      #contact {
+        margin-left: 0px;
+        line-height: 2vh;
+      }
+}
+@media (max-width: 477px){
+    .nav h2{
+        display: none;
+    }
+    #batch fieldset {
+        width: 100%;
+      }
+ 
+      #note fieldset {
+        width: 100%;
+      }
+      #syllabus fieldset {
+        width: 100%;
+      }
+      #syllabus h2 {
+        margin-left: 100px;
+      }
+      #bnp button{
+           margin: auto;
+           margin-top: 20px;
+           margin-left: 20px;
+      }
+      #info {
+        width: 500px;
+        height: 600px;
+        padding-left: 0px;
+        margin: 0px;
+      }
+
+      #contact h3 {
+        margin-left: 0px;
+      }
+      
+      .use {
+        /* margin-left: 100px; */
+        color: #ea1538;
+        margin-left: -10px;
+      }
+      .ful {
+        margin-left: 100px;
+      }
+      #usl {
+        margin-left: 0px;
+      }
+      #contact {
+        margin-left: 0px;
+        line-height: 2vh;
+      }
+}

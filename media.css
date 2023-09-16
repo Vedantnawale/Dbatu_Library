@@ -1,0 +1,210 @@
+@media (max-width:799px){
+    #navbar li{
+        display: none;
+    }
+    .sub-menu-wrap{
+        left: 45%;
+    }
+    .sub-menu{
+        padding: 0px;
+        margin: 0px;
+    }
+    .prev, .next{
+        position: fixed;
+        top: 0%;
+        width: 100%;
+    }
+    #imp .cinfo{
+        text-align: center;
+        font-size: 50px;
+        font-weight: 600;
+    }
+    #gcoey{
+    margin-top: -400px;
+    }
+    #services{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+     }
+     #services .box{
+        margin-left: 100px;
+     }
+     #services .box-2{
+        margin-right: 60px;
+     }
+     #services .box-3{
+        margin-right: 10%;
+     }
+     #half{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    
+    }
+     #full{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .teacher{
+        display: inline-flex;
+        margin: auto;
+        text-align: center;
+        margin-left: 40%;
+        margin-bottom: 50px;
+    }
+    .teacher strong{
+        margin-left: 0px;
+    }
+    .teacher p{
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .ds img{
+        margin-top: 0px;
+    }
+    .sb{
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+    .pp{
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+    .vrs{
+        margin-left: 0%;
+        margin-top: 0%;
+    }
+    .ds{
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+    .ds {
+        margin-top: 0px;
+      }
+  
+      .sb img {
+        margin-top: 0px;
+      }
+  
+      .vrs img {
+        margin-top: 0px;
+      }
+  
+      .pp img {
+        margin-top: 0px;
+      }
+  
+      .pp {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+      }
+  
+      .vrs {
+        margin-top: 0px;
+        margin-bottom: 0px;
+      }
+  
+      .sb {
+        margin-top: 0px;
+        margin-bottom: 0px;
+      }
+      #pic-1 {
+        width:110%;
+      }
+  
+      #pic-2 {
+        width:110%;
+      }
+  
+      #pic-3 {
+        width:110%;
+      }
+      .conii{
+        line-height: 5vh;
+    }
+    #info{
+        padding-left: 10px;
+        margin: 0px;
+        height: 400px;
+    }
+    #info h3{
+        margin-left: 0px;
+    }
+    
+    .main hr{
+        width:0%;
+        margin-left:0px;
+        margin-top: 0px;
+    }
+    .main{
+        margin-right: 0px;
+    }
+    .main ul{
+        list-style: none;
+    }
+    .use{
+        color: red;
+        margin-left: 100px;
+    }
+    .ful{
+        margin-left: 0px;
+    }
+    #contact{
+        margin-left: 100px;
+    }
+        #foot{
+           margin: auto;
+           margin-top: -125px;
+        }
+}
+@media (max-width: 477px){
+    #navbar{
+        padding-right: 170px;
+    }
+    #pic-1 {
+        width:100%;
+      }
+  
+      #pic-2 {
+        width:100%;
+      }
+  
+      #pic-3 {
+        width:100%;
+      }
+      #slideshow-container .text{
+        margin-left: 100px;
+      } 
+      #gcoey{
+        margin: 10px;
+        width: 100%;
+        flex-direction: column;
+        margin: auto;
+        }
+    .welcome {
+        width: 100%;
+    }   
+    .notice {
+        width: 80%;
+        margin-top: 30px;
+    }
+    #info{
+        height: 600px;
+        width: fit-content;
+        flex-direction: column;
+    }
+    .use{
+        margin-top: 10px;
+        margin-left: 0px;
+        color: red;
+    }
+    .ful{
+        margin-left: 0px;
+    }
+    #contact{
+        margin-left: 0px;
+    }
+}
